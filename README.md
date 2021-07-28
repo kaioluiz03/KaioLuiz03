@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<h1 align="center">
+  Hello! Welcome to my profile! 👋
+<h1>
+  <h2 align="center">
+   My name is Kaio Luiz, and I'm a front-end development student.
+  </h2>
+  
+  Tenho 20 anos de idade e sou de Pernanbuco. Estudo inglês, porque eu quero muito aprender uma nova língua
+  para poder me comunicar com o mundo. Sempre tive contato com computadores e tecnologias em geral, entretanto ainda
+  sou iniciante na área de programação, porém o que não me falta é vontade de aprender.
+  
 <!--
 **KaioLuiz03/KaioLuiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
