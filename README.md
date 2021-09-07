@@ -1,13 +1,14 @@
 <h1 align="center">
   Olá! Seja bem vindo ao meu perfil! 👋
 <h1>
-  <h2 align="center">
-   Meu nome é Kaio Luiz, e eu sou estudante de Desenvolvimento Front-end.
-  </h2>
+ 
+  - <p>Meu nome é Kaio Luiz 🐱‍👤</p>
+  - <p>Camaragibe - PE</p>
+  - <p>Eu estudo desenvolvimento Front-end pela Rede Cidadã.</p>
+  - <p>Também estudo inglês.</p>
   
-  Tenho 20 anos de idade e sou de Pernanbuco. Estudo inglês, porque eu quero muito aprender uma nova língua
-  para poder me comunicar com o mundo. Sempre tive contato com computadores e tecnologias em geral, entretanto ainda
-  sou iniciante na área de programação, porém o que não me falta é vontade de aprender.
+  
+  
   #
   <div>
   <h1>Minhas redes sociais</h1>
