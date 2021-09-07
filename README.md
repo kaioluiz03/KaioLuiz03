@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hello! Welcome to my profile! 👋
+  Olá! Seja bem vindo ao meu perfil! 👋
 <h1>
   <h2 align="center">
-   My name is Kaio Luiz, and I'm a front-end development student.
+   Meu nome é Kaio Luiz, e eu sou estudante de Desenvolvimento Front-end.
   </h2>
   
   Tenho 20 anos de idade e sou de Pernanbuco. Estudo inglês, porque eu quero muito aprender uma nova língua
