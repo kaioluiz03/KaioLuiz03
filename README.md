@@ -6,13 +6,11 @@
   - <p>📍 Camaragibe - PE</p>
   - <p>💻 Eu estudo desenvolvimento Front-end pela Rede Cidadã.</p>
   - <p>💻 Também estudo inglês.</p>
+  ***
   
-  <div>
-    <h3>🛠 Linguagens e Ferramentas:</h3>
-    - <p>HTML5</p>
-    - <p>CSS3</p>
-    - <p>GIT</p>
-  </div>
+    🛠 Linguagens e Ferramentas:
+    HTML5, CSS3, GIT.
+ 
   
   
   <div>
@@ -23,7 +21,6 @@
   
   
   <div>
-    <h3>Minhas redes sociais</h3>
     <a href="https://www.instagram.com/kaio.luiz.3532/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kaio-luiz-692bb8217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
